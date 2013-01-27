@@ -1,4 +1,0 @@
-Palmers
-=======
-
-New Palmers Website
