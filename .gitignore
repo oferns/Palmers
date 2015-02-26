@@ -177,11 +177,6 @@ UpgradeLog*.htm
 # Microsoft Fakes
 FakesAssemblies/
 
-Mail/
-
-
-
-
 #Bower and Grunt
 bower_components/
 node_modules/
